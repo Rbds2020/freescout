@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex,nofollow">
-    
+
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
@@ -63,7 +63,7 @@
                             </a>
                         @else
                             <a class="navbar-brand" href="{{ route('dashboard') }}" title="{{ __('Dashboard') }}">
-                                <img src="@filter('layout.header_logo', asset('img/logo-brand.svg'))" height="100%" alt="" />
+                                <img src="@filter('layout.header_logo', asset('img/download.jpg'))" height="100%" alt="" />
                                 {{-- config('app.name', 'FreeScout') --}}
                             </a>
                         @endif

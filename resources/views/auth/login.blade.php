@@ -8,7 +8,7 @@
             @include('auth/banner')
 
             <div class="panel panel-default panel-shaded">
-                
+
                 <div class="panel-body">
 
                     @action('login_form.before')
