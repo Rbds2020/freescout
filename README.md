@@ -144,4 +144,4 @@ Web installer:
 
 Login page:
 
-![Login page](https://freescout-helpdesk.github.io/img/screenshots/freescout-login.png)
+![Login page](https://freescout-helpdesk.github.io/img/screenshots/freescout-login.png)# HelpDesk
